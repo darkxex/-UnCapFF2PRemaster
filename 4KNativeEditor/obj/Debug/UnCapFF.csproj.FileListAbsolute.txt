@@ -18,3 +18,14 @@ C:\Users\darkx\Documents\GitHub\-UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UnCa
 C:\Users\darkx\Documents\GitHub\-UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.CoreCompileInputs.cache
 C:\Users\darkx\Documents\GitHub\-UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UncapFF2PR.exe
 C:\Users\darkx\Documents\GitHub\-UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UncapFF2PR.pdb
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\bin\Debug\UncapFF2PR.exe.config
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\bin\Debug\UncapFF2PR.exe
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\bin\Debug\UncapFF2PR.pdb
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.AssemblyReference.cache
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.SuggestedBindingRedirects.cache
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\obj\Debug\_4KNativeEditor.Form1.resources
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\obj\Debug\_4KNativeEditor.Properties.Resources.resources
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.GenerateResource.cache
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.CoreCompileInputs.cache
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UncapFF2PR.exe
+C:\Users\darkx\OneDrive\Documentos\GitHub\UnCapFF2PRemaster\4KNativeEditor\obj\Debug\UncapFF2PR.pdb
